@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Meu Site</title>
+    <style>
+      /* Adicione estilos CSS aqui */
+    </style>
+  </head>
+  
+<body>
+   
+    <header>
+      <img src="caminho/para/minha/imagem.jpg" alt="Minha Imagem">
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#projetos">Projetos</a></li>
+        <li><a href="#sobre">Sobre</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <section id="projetos">
+        <!-- Adicione seus projetos aqui -->
+      </section>
+      <section id="sobre">
+        <h3>Hello world!</h3>
+      </section>
+    </main>
+
+  </body>
+
+</html>
